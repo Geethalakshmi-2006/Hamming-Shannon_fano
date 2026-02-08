@@ -54,7 +54,8 @@ print(f"Variance is : {var}")
 
 ![DC Cal](https://github.com/user-attachments/assets/21e1b410-a6c6-4f58-8f94-8bf0df6212c7)
 
-![DC](https://github.com/user-attachments/assets/cf6ee7d2-9c8b-4768-b1fb-7697a60cd462
+
+![DC](https://github.com/user-attachments/assets/8950adb5-3eca-4795-b780-f8c4387a15fd)
 
 ![DC CALC](https://github.com/user-attachments/assets/e3abd824-ae2a-4ea0-aab8-26613f020515)
 
